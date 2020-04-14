@@ -1,0 +1,6 @@
+<properties>
+  <sonar.projectKey>arups_sonartest</sonar.projectKey>
+  <sonar.organization>arups</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>dd6fc78a6c039e7bac91b4fd08bca89dcbd137c8</sonar.login>
+</properties>
