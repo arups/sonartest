@@ -1,2 +1,3 @@
 # sonartest
 test
+ok
